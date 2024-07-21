@@ -1,0 +1,28 @@
+﻿@model List<UserEdit>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<a asp-action="Create" asp-controller="Home" class="bg-blue-500 text-white rounded-md px-3 py-2">Add User</a>
+<a asp-action="GetUsers" id="btn-getUser" asp-controller="Home" data-ajax="true" data-ajax-method="get" data-ajax-update="#getUsers" data-ajax-loading="#load"></a>
+<div id="load" class="mx-auto" >
+    Loading.....
+</div>
+
+<div id="getUsers" class="flex flex-row flex-wrap gap-4 p-2">
+
+  </div>
+<script>
+
+    $(document).ready(function () {
+        $('#btn-getUser').click();
+
+       DeleteUser = function () {
+            alert("User deleted Successfully")
+            $('#btn-getUser').click();
+        }
+    });
+
+   
+</script>

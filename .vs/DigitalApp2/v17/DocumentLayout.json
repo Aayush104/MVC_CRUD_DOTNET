@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|c:\\users\\acer\\source\\repos\\digitalapp2\\digitalapp2\\digitalapp2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|solutionrelative:digitalapp2\\digitalapp2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|c:\\users\\acer\\source\\repos\\digitalapp2\\digitalapp2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|solutionrelative:digitalapp2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|c:\\users\\acer\\source\\repos\\digitalapp2\\digitalapp2\\views\\home\\_getusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|solutionrelative:digitalapp2\\views\\home\\_getusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|c:\\users\\acer\\source\\repos\\digitalapp2\\digitalapp2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|solutionrelative:digitalapp2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|c:\\users\\acer\\source\\repos\\digitalapp2\\digitalapp2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|solutionrelative:digitalapp2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|c:\\users\\acer\\source\\repos\\digitalapp2\\digitalapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|solutionrelative:digitalapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|c:\\users\\acer\\source\\repos\\digitalapp2\\digitalapp2\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|solutionrelative:digitalapp2\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|c:\\users\\acer\\source\\repos\\digitalapp2\\digitalapp2\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|solutionrelative:digitalapp2\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|c:\\users\\acer\\source\\repos\\digitalapp2\\digitalapp2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|solutionrelative:digitalapp2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|c:\\users\\acer\\source\\repos\\digitalapp2\\digitalapp2\\datasecurity\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|solutionrelative:digitalapp2\\datasecurity\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|c:\\users\\acer\\source\\repos\\digitalapp2\\digitalapp2\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|solutionrelative:digitalapp2\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|c:\\users\\acer\\source\\repos\\digitalapp2\\digitalapp2\\models\\useredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|solutionrelative:digitalapp2\\models\\useredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|c:\\users\\acer\\source\\repos\\digitalapp2\\digitalapp2\\digitalapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|solutionrelative:digitalapp2\\digitalapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|c:\\users\\acer\\source\\repos\\digitalapp2\\digitalapp2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|solutionrelative:digitalapp2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|c:\\users\\acer\\source\\repos\\digitalapp2\\digitalapp2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|solutionrelative:digitalapp2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|c:\\users\\acer\\source\\repos\\digitalapp2\\digitalapp2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|solutionrelative:digitalapp2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|c:\\users\\acer\\source\\repos\\digitalapp2\\digitalapp2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|solutionrelative:digitalapp2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|c:\\users\\acer\\source\\repos\\digitalapp2\\digitalapp2\\models\\digitalapp1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15853B67-1270-493A-BE95-E0325DEB0D50}|DigitalApp2\\DigitalApp2.csproj|solutionrelative:digitalapp2\\models\\digitalapp1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DigitalApp2",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\DigitalApp2.csproj",
+              "RelativeDocumentMoniker": "DigitalApp2\\DigitalApp2.csproj",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\DigitalApp2.csproj",
+              "RelativeToolTip": "DigitalApp2\\DigitalApp2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T10:21:18.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DigitalApp2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DigitalApp2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T08:14:01.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DigitalApp2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DigitalApp2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T09:35:22.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DigitalApp1Context.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Models\\DigitalApp1Context.cs",
+              "RelativeDocumentMoniker": "DigitalApp2\\Models\\DigitalApp1Context.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Models\\DigitalApp1Context.cs",
+              "RelativeToolTip": "DigitalApp2\\Models\\DigitalApp1Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:50:30.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Program.cs",
+              "RelativeDocumentMoniker": "DigitalApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Program.cs",
+              "RelativeToolTip": "DigitalApp2\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:47:34.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\appsettings.json",
+              "RelativeDocumentMoniker": "DigitalApp2\\appsettings.json",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\appsettings.json",
+              "RelativeToolTip": "DigitalApp2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T08:44:03.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DigitalApp2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DigitalApp2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAwwCkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:14:48.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DigitalApp2\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Models\\User.cs",
+              "RelativeToolTip": "DigitalApp2\\Models\\User.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:15:35.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_GetUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Views\\Home\\_GetUsers.cshtml",
+              "RelativeDocumentMoniker": "DigitalApp2\\Views\\Home\\_GetUsers.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Views\\Home\\_GetUsers.cshtml",
+              "RelativeToolTip": "DigitalApp2\\Views\\Home\\_GetUsers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T09:50:02.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DigitalApp2\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "DigitalApp2\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvyMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T07:55:43.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "DigitalApp2\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "DigitalApp2\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T09:47:14.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Security.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\DataSecurity\\Security.cs",
+              "RelativeDocumentMoniker": "DigitalApp2\\DataSecurity\\Security.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\DataSecurity\\Security.cs",
+              "RelativeToolTip": "DigitalApp2\\DataSecurity\\Security.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:14:50.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "DigitalApp2\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "DigitalApp2\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T07:18:43.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DigitalApp2.csproj",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\DigitalApp2.csproj",
+              "RelativeDocumentMoniker": "DigitalApp2\\DigitalApp2.csproj",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\DigitalApp2.csproj",
+              "RelativeToolTip": "DigitalApp2\\DigitalApp2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-21T06:14:19.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserEdit.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Models\\UserEdit.cs",
+              "RelativeDocumentMoniker": "DigitalApp2\\Models\\UserEdit.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Models\\UserEdit.cs",
+              "RelativeToolTip": "DigitalApp2\\Models\\UserEdit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:16:42.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DigitalApp2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "DigitalApp2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T09:36:21.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DigitalApp2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DigitalApp2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T12:31:46.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DigitalApp2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DigitalApp2\\DigitalApp2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DigitalApp2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T12:31:52.5Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

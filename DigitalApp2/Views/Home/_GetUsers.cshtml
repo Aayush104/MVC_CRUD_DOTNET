@@ -1,0 +1,36 @@
+﻿@model List<UserEdit>
+
+@if (!Model.Any())
+{
+    <div>
+        <p>NO data Here</p>
+    </div>
+}
+else
+{
+    <div class="flex flex-wrap gap-4 items-center mt-8 p-2">
+        @foreach (var i in Model)
+        {
+
+
+
+            <div class="flex flex-col gap-2 items-center shadow-lg rounded-lg p-4">
+                <img class="w-20 " src="~/Photos/@i.UserProfile" />
+                <p>@i.UserName</p>
+                <p>@i.EmailAddress</p>
+                <div class="flex gap-4">
+                    <a class="bg-blue-500 px-3 py-2 text-white text-center" asp-action="Details" asp-controller="Home" asp-route-id="@i.EncId">Details</a>
+                    <a class="bg-green-500 px-3 py-2 text-white text-center" asp-action="Edit" asp-route-id="@i.EncId">Edit</a>
+                    <a class="bg-red-500 px-3 py-2 text-white text-center" asp-action="Delete" asp-route-id="@i.UserId" data-ajax="true" data-ajax-method="get" data-ajax-confirm="Are you sure want to delete?" data-ajax-complete="DeleteUser">Delete</a>
+
+                </div>
+
+
+
+
+            </div>
+
+        }
+    </div>
+}
+
